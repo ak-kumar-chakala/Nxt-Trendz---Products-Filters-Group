@@ -1,0 +1,12 @@
+.category-button {
+  background-color: transparent;
+  border-width: 0px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  text-align: left;
+}
+
+.category-li-item {
+  list-style-type: none;
+  margin-left: 0px;
+}

@@ -1,0 +1,16 @@
+.stars-image {
+  height: 30px;
+  width: 150px;
+}
+
+.rating-button {
+  display: flex;
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: 0px;
+  text-align: left;
+}
+
+.rating-li {
+  list-style-type: none;
+}

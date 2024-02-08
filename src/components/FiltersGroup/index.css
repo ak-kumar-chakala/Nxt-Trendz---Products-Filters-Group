@@ -1,0 +1,45 @@
+.filters-group-container {
+  margin-top: 16px;
+}
+
+.filters-container {
+  margin: 30px;
+}
+
+@media screen and (min-width: 768px) {
+  .filters-group-container {
+    width: 30%;
+    max-width: 350px;
+    margin-top: 48px;
+    flex-shrink: 0;
+  }
+
+  .category-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ul-list {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .category-head {
+    font-size: 20px;
+    margin-left: 0px;
+  }
+
+  .rating-elements-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+  }
+}
+
+.clear-button {
+  background-color: transparent;
+  border-width: 1px;
+  border-color: aquamarine;
+}
+
+/* Write your CSS here */
